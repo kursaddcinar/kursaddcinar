@@ -78,5 +78,6 @@ Yaklaşık 6-7 aylık .NET proje geliştirme ve ERP sistemleri tecrübem bulunuy
 ### Bana Ulaşın
 Portfolyomu incelediğiniz için teşekkürler! Benimle iletişime geçmekten çekinmeyin:
 
-*  --->  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-k%C3%BCr%C5%9Fat-%C3%A7%C4%B1nar-3ab05b254/)  <---
+*
+*  👉👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-k%C3%BCr%C5%9Fat-%C3%A7%C4%B1nar-3ab05b254/)  👈👈
 * **E-posta:** `[kursaddcinar@gmail.com]`
