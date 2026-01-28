@@ -2,19 +2,20 @@
 
 Backend geliştirme dünyasına odaklanmış bir yazılım geliştiriciyim. .NET ve Spring gibi güçlü teknolojileri kullanarak sağlam ve ölçeklenebilir sistemler kurmakla ilgileniyorum.
 
-Yaklaşık 6-7 aylık .NET proje geliştirme ve ERP sistemleri tecrübem bulunuyor. Şu anda aktif olarak, backend alanındaki yeteneklerimi gösterebileceğim ve kendimi daha da geliştirebileceğim yeni fırsatlar arıyorum.
+Yaklaşık 7-8 aylık .NET proje geliştirme ve ERP sistemleri tecrübem bulunuyor. Şu anda aktif olarak, backend alanındaki yeteneklerimi gösterebileceğim ve kendimi daha da geliştirebileceğim yeni fırsatlar arıyorum.
 
 ---
 
 ### Teknik Yeteneklerim (Tech Stack)
 
-* **Aktif Olarak Kullandıklarım:**
-    * C# & .NET (ASP.NET Core, Entity Framework)
+* **Aktif Olarak Kullandıklarım:***    
     * Java & Spring Boot
+    * C# & .NET (ASP.NET Core, Entity Framework)
     * SQL (SQL Server, PostgreSQL, vb.)
+    * Git & GitHub
 * **Aşina Olduklarım:**
     * C
-    * Git & GitHub
+    * Unity
 * **İlgi Alanlarım & Geliştirmekte Olduklarım:**
     * Microservices Mimarisi
     * Docker & Konteyner Teknolojileri
@@ -31,7 +32,21 @@ Yaklaşık 6-7 aylık .NET proje geliştirme ve ERP sistemleri tecrübem bulunuy
 
 İşte üzerinde çalıştığım ve yeteneklerimi sergileyen bazı projeler:
 
-#### A. .NET Projelerim
+
+#### A. Spring Projelerim
+
+##### 1. MiniERP2 (Spring Backend projesi)
+* **Açıklama:** Kurumsal kaynak planlama süreçleri için geliştirilmiş, Clean Architecture prensiplerine uygun, Docker ile containerize edilmiş ve gelişmiş güvenlik yapılandırmaları (Spring Security 6 & Stateless JWT) içeren ölçeklenebilir bir Spring Boot REST API projesi.
+* **Teknolojiler:** Java 17, Spring Boot 3, Spring Security, PostgreSQL, Docker & Docker Compose, Hibernate/JPA, Swagger/OpenAPI.
+* **Repo Linki:** [MiniERP2 (Spring Backend)](https://github.com/kursaddcinar/MiniERP2-Spring)
+
+##### 2. Product Tracker Service (Spring Boot + Kubernetes)
+* **Açıklama:** Ürün takibi ve kullanıcı yönetimi amacıyla geliştirilmiş, SOLID ve Katmanlı Mimari (Layered Architecture) prensiplerine uygun, Kubernetes orkestrasyonu ile "Production Ready" standartlarında çalışan bir Backend servisi. Veri sürekliliği için Kubernetes PVC yapısı kullanılmış olup, Spring Security ve JWT ile Rol Tabanlı Erişim Kontrolü (RBAC) sağlanmıştır.
+* **Teknolojiler:** Java 17, Spring Boot 3, Spring Security, JWT, PostgreSQL, Kubernetes (Deployment, Service, PVC, Secret), Docker (Multi-Stage), Maven, ModelMapper.
+* **Repo Linki:** [Product Tracker Service (Spring Boot + Kubernetes)](https://github.com/kursaddcinar/springboot-product-service-docker)
+
+
+#### B. .NET Projelerim
 
 ##### 1. MiniERP2 (.Net Backend projesi)
 * **Açıklama:** Bu proje, çok istemci desteği sunan, klasik Katmanlı Mimari (N-Tier) prensiplerine göre tasarlanmış, JWT kimlik doğrulama ve modern geliştirme pratikleri içeren kapsamlı bir .NET 8 Web API projesi.
@@ -53,18 +68,6 @@ Yaklaşık 6-7 aylık .NET proje geliştirme ve ERP sistemleri tecrübem bulunuy
 * **Teknolojiler:** ASP.NET Core (.NET 8), IMemoryCache, Dependency Injection, User Secrets, xUnit, HTML5 & CSS3 & Vanilla JavaScript (ES6+).
 * **Repo Linki:** [Borsa Dashboard](https://github.com/kursaddcinar/BorsaDashboard)
 
-
-#### B. Spring Projelerim
-
-##### 1. MiniERP2 (Spring Backend projesi)
-* **Açıklama:** Kurumsal kaynak planlama süreçleri için geliştirilmiş, Clean Architecture prensiplerine uygun, Docker ile containerize edilmiş ve gelişmiş güvenlik yapılandırmaları (Spring Security 6 & Stateless JWT) içeren ölçeklenebilir bir Spring Boot REST API projesi.
-* **Teknolojiler:** Java 17, Spring Boot 3, Spring Security, PostgreSQL, Docker & Docker Compose, Hibernate/JPA, Swagger/OpenAPI.
-* **Repo Linki:** [MiniERP2 (Spring Backend)](https://github.com/kursaddcinar/MiniERP2-Spring)
-
-##### 2. Product Tracker Service (Spring Boot + Kubernetes)
-* **Açıklama:** Ürün takibi ve kullanıcı yönetimi amacıyla geliştirilmiş, SOLID ve Katmanlı Mimari (Layered Architecture) prensiplerine uygun, Kubernetes orkestrasyonu ile "Production Ready" standartlarında çalışan bir Backend servisi. Veri sürekliliği için Kubernetes PVC yapısı kullanılmış olup, Spring Security ve JWT ile Rol Tabanlı Erişim Kontrolü (RBAC) sağlanmıştır.
-* **Teknolojiler:** Java 17, Spring Boot 3, Spring Security, JWT, PostgreSQL, Kubernetes (Deployment, Service, PVC, Secret), Docker (Multi-Stage), Maven, ModelMapper.
-* **Repo Linki:** [Product Tracker Service (Spring Boot + Kubernetes)](https://github.com/kursaddcinar/springboot-product-service-docker)
 
 
 #### C. Diğer Projelerim
